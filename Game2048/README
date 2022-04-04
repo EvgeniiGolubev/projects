@@ -1,0 +1,11 @@
+Game 2028
+
+Arrow up - move cells up
+Arrow down - shift cells down
+Arrow left - move cells to the left
+Arrow right - move cells to the right
+
+Key ESC - game restart
+Key Z - move rollback
+Key R - random move
+Key A - automatic move, the logic of which is written in class MoveEfficiency
